@@ -1,7 +1,7 @@
 {
   "enabledPlugins": {
     "ponytail@ponytail": true,
-    "caveman@caveman": true,
+    "caveman@caveman": false,
     "taste-skill@taste-skill": true,
     "mattpocock-skills@mattpocock": true,
     "ecc@ecc": true,
